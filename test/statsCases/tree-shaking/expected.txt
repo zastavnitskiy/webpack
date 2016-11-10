@@ -1,4 +1,4 @@
-Hash: 8bac53cc0c37d71baf6b
+Hash: 78add2f0e0c7e8f129d3
 Time: Xms
     Asset     Size  Chunks             Chunk Names
 bundle.js  7.22 kB       0  [emitted]  main
