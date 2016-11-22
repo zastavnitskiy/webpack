@@ -4,5 +4,8 @@ module.exports = {
 		loaders: [
 			{ test: /\.json$/, loader: "json-loader" }
 		]
+	},
+	performance: {
+		hints: false
 	}
 };
